@@ -1,6 +1,0 @@
-# Basic dependencies for running the app
-streamlit
-PyMuPDF
-openai==2.15.0
-python-dotenv
-pandas==2.3.3
