@@ -1,4 +1,74 @@
-lab1/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
 venv/
-.env/
+ENV/
+env/
 .venv/
+lab1/
+lab/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# dotenv files (secrets)
+.env
+.env.*
+/home/funny36/Documents/coding/lab/extract/.env
+
+# Streamlit
+.streamlit/
+
+# Generated outputs / temp files
+authors_extracted.csv
+temp_paper.pdf
+
+# Editor / OS files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Misc
+*.bak
+*.swp
+*~
